@@ -6,7 +6,7 @@ The core idea is to retrieve a moment on a two-dimensional temporal map, which c
 Our model is  simple  in  design  and  achieves  competitive  performance in  comparison  with  the  state-of-the-art  methods  on  three benchmark datasets.
 
 ## Framework
-![alt text](imgs/pipeline.jpg)
+![alt text](pipeline.jpg)
 
 ## Main Results
 
